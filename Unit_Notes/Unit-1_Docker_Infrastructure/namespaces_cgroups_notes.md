@@ -75,7 +75,7 @@ They control resources like:
 -   Memory
 -   Disk I/O
 -   Network bandwidth
-
+    
 In simple words:
 
 > **cgroups ensure that one container cannot use all system resources.**
